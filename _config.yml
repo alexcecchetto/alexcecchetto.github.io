@@ -21,7 +21,7 @@ repository               : "alexcecchetto/alexcecchetto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Alex Cecchetto"
   pronouns         : # example: "she/her"  
   bio              : "PhD student, Statistical Sciences"
