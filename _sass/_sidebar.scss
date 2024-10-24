@@ -90,13 +90,13 @@
   }
 
   img {
-    display: block;        /* Ensures the image is treated as a block element */
-    margin-left: 20%;     /* Automatically calculate left margin */
-    margin-right: auto;    /* Automatically calculate right margin */
-    width: 75%;           /* Full width of the column */
-    height: auto;          /* Maintain aspect ratio */
-    border-radius: 5px;   /* Slightly rounded corners */
-    object-fit: cover;     /* Ensure proper aspect ratio without distortion */
+    display: block;
+    margin-left: 20%;    /* Increase this value to add more space on the left */
+    margin-right: auto;  /* Keep this set to auto to allow automatic spacing on the right */
+    width: 80%;          /* Adjust the width to prevent the image from going off the page */
+    height: auto;        /* Maintain the aspect ratio */
+    border-radius: 5px; /* Rounded corners */
+    object-fit: cover;   /* Ensure proper aspect ratio without distortion */
 }
 
 }
