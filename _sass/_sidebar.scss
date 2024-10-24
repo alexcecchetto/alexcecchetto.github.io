@@ -92,7 +92,7 @@
   img {
     width: 100%;           /* Make the image occupy the full width of the column */
     height: auto;          /* Maintain the original aspect ratio */
-    border-radius: 10px;    /* Slightly round the corners */
+    border-radius: 5px;    /* Slightly round the corners */
     object-fit: cover;      /* Ensures the image covers the space without distorting */
 }
 
