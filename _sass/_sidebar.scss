@@ -90,14 +90,14 @@
   }
 
   img {
-    max-width: 175px;
-    //border-radius: 50%;
+    width: 150px;        /* Set width to match the profile image size */
+    height: 150px;       /* Ensure the height matches the width for a square */
+    border-radius: 50%;  /* Makes the image round (remove or change to 0 for square) */
+    object-fit: cover;   /* Ensures the image is fully contained within the square */
+    margin: auto;        /* Centers the image */
+    display: block;      /* Ensures it's a block element */
+}
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
 }
 
 .author__content {
