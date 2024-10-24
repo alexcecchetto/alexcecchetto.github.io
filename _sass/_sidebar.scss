@@ -90,10 +90,13 @@
   }
 
   img {
-    width: 100%;           /* Make the image occupy the full width of the column */
-    height: auto;          /* Maintain the original aspect ratio */
-    border-radius: 5px;    /* Slightly round the corners */
-    object-fit: cover;      /* Ensures the image covers the space without distorting */
+    display: block;        /* Ensures the image is treated as a block element */
+    margin-left: auto;     /* Automatically calculate left margin */
+    margin-right: auto;    /* Automatically calculate right margin */
+    width: 75%;           /* Full width of the column */
+    height: auto;          /* Maintain aspect ratio */
+    border-radius: 5px;   /* Slightly rounded corners */
+    object-fit: cover;     /* Ensure proper aspect ratio without distortion */
 }
 
 }
