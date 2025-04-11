@@ -1,11 +1,16 @@
 # Alex Cecchetto
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+<!--**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+
+![Academic Pages template example](images/homepage.png "Academic Pages template example") -->
 
 # About me 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+I am a PhD student at [University of Padova](https://www.unipd.it), in the [department of Statistical Sciences](https://www.stat.unipd.it/en/), working under the supervision of Prof. [Davide Risso](http://drisso.github.io).
+
+My research focuses on developing and implementing statistical models for analyzing high-dimensional genomic data, especially in single-cell RNA sequencing. I work on statistical methods like regression, clustering, dimensionality reduction, and hypothesis testing, drawing from both frequentist and Bayesian approaches. I have a strong interest in computational statistics, with a focus on optimizing algorithmic efficiency and exploring GPU implementations to enhance performance and scalability.
+
+<!--1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and add your content.
@@ -87,3 +92,4 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+-->
