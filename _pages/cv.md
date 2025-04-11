@@ -17,22 +17,22 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Data Scientist @ Qintesi S.p.A.**
+* March 2022 - October 2023: 
+  * Creation and  management of databases for major insurance companies and corporations. 
+  * implementing of machine learning models to support the decision-making processes of companies
+  * The primary tools I used were Gogle Cloud Platform, SAP, SQL, ABAP and Python.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Collaborator — Istituto Oncologico Veneto (IOV), Padua, Italy**
+* Fall 2021 - Present: Consultant for 
+  * Conducted statistical analyses on patient data related to hereditary cancer syndromes and other genetic diseases.
+  * Evaluated clinical and genetic risk factors using survival analysis and regression models.
+  * Contributed to the development of risk stratification frameworks for patient management and prognosis.
+  * Collaborated with clinicians and researchers to integrate statistical findings into translational research projects.
+  * Performed data cleaning, curation, and exploratory analysis on real-world clinical datasets.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
