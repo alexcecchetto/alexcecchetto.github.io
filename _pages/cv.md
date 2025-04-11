@@ -18,13 +18,13 @@ Education
 Work experience
 ======
 * **Data Scientist @ Qintesi S.p.A.**
-* March 2022 - October 2023: 
+March 2022 - October 2023: 
   * Creation and  management of databases for major insurance companies and corporations. 
   * implementing of machine learning models to support the decision-making processes of companies
   * The primary tools I used were Gogle Cloud Platform, SAP, SQL, ABAP and Python.
 
 * **Research Collaborator — Istituto Oncologico Veneto (IOV), Padua, Italy**
-* Fall 2021 - Present: Consultant for 
+Fall 2021 - Present: Consultant for 
   * Conducted statistical analyses on patient data related to hereditary cancer syndromes and other genetic diseases.
   * Evaluated clinical and genetic risk factors using survival analysis and regression models.
   * Contributed to the development of risk stratification frameworks for patient management and prognosis.
